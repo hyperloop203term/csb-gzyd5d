@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://hyperloop203term.github.io/csb-gzyd5d/static/css/main.009bcee1.chunk.css",
+    "main.js": "https://hyperloop203term.github.io/csb-gzyd5d/static/js/main.dfc3f706.chunk.js",
+    "main.js.map": "https://hyperloop203term.github.io/csb-gzyd5d/static/js/main.dfc3f706.chunk.js.map",
+    "runtime-main.js": "https://hyperloop203term.github.io/csb-gzyd5d/static/js/runtime-main.f7248293.js",
+    "runtime-main.js.map": "https://hyperloop203term.github.io/csb-gzyd5d/static/js/runtime-main.f7248293.js.map",
+    "static/js/2.8416a772.chunk.js": "https://hyperloop203term.github.io/csb-gzyd5d/static/js/2.8416a772.chunk.js",
+    "static/js/2.8416a772.chunk.js.map": "https://hyperloop203term.github.io/csb-gzyd5d/static/js/2.8416a772.chunk.js.map",
+    "index.html": "https://hyperloop203term.github.io/csb-gzyd5d/index.html",
+    "precache-manifest.037c1e8b5ca4a1cb15ef84478728a910.js": "https://hyperloop203term.github.io/csb-gzyd5d/precache-manifest.037c1e8b5ca4a1cb15ef84478728a910.js",
+    "service-worker.js": "https://hyperloop203term.github.io/csb-gzyd5d/service-worker.js",
+    "static/css/main.009bcee1.chunk.css.map": "https://hyperloop203term.github.io/csb-gzyd5d/static/css/main.009bcee1.chunk.css.map",
+    "static/js/2.8416a772.chunk.js.LICENSE.txt": "https://hyperloop203term.github.io/csb-gzyd5d/static/js/2.8416a772.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7248293.js",
+    "static/js/2.8416a772.chunk.js",
+    "static/css/main.009bcee1.chunk.css",
+    "static/js/main.dfc3f706.chunk.js"
+  ]
+}
